@@ -1,0 +1,9 @@
+{
+  "name": "ARISTOCRAT Barbershop Moscow",
+  "description": "A premium, modern barbershop Experience in the heart of Moscow, featuring expert grooming, industrial-chic design, and seamless booking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
